@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "functions": {
     "api/gemini-chat.ts": {
       "runtime": "nodejs18.x"
