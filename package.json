@@ -1,0 +1,16 @@
+{
+  "name": "huan-luyen-vien-khoi-nghiep",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "@vercel/node": "^3.0.20"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
