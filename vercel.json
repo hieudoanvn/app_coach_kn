@@ -2,14 +2,7 @@
   "version": 2,
   "functions": {
     "api/gemini-chat.ts": {
-      "runtime": "nodejs18.x",
-      "memory": 256
+      "runtime": "nodejs18.x"
     }
-  },
-  "routes": [
-    {
-      "src": "/api/gemini-chat",
-      "dest": "/api/gemini-chat"
-    }
-  ]
+  }
 }
